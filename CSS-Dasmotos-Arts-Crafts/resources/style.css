@@ -10,7 +10,7 @@ h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
-#nav {
+.nav {
   font-weight: bold;
   text-align: center;
 }
@@ -21,15 +21,15 @@ h2 {
   color: white;
 }
 
-#brushes h2 {
+.brushes {
    background-color: mediumspringgreen;
  }
 
- #frames h2 {
+.frames {
    background-color: lightcoral;
  }
 
- #paint h2 {
+.paint {
    background-color:skyblue;
  }
 
